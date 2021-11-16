@@ -11,7 +11,7 @@
   "dependencies": {
     "@types/aws-lambda": "^8.10.59",
     "@types/node": "^14.0.23",
-    "aws-sdk": "^2.715.0",
+    "aws-sdk": "^2.814.0",
     "aws-sdk-mock": "^5.1.0",
     "ls": "^0.2.1",
     "moq.ts": "^6.4.0",
